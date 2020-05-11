@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a2cc4f0-014b-4692-961d-663775cc01a7" name="Default Changelist" comment="" />
+    <list default="true" id="986c8934-61a7-49e9-b167-8ab1ec11502d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1bfTIfLyNedwSnXBNaWQeX4ozT6" />
+  <component name="ProjectId" id="1bjAV77bT7tEiJhNG3C6XkAEZ6c" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,12 +24,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5a2cc4f0-014b-4692-961d-663775cc01a7" name="Default Changelist" comment="" />
-      <created>1589022069420</created>
+      <changelist id="986c8934-61a7-49e9-b167-8ab1ec11502d" name="Default Changelist" comment="" />
+      <created>1589135150199</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1589022069420</updated>
+      <updated>1589135150199</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="346" y="59" key="search.everywhere.popup" timestamp="1589135602224">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1589135602224" />
   </component>
 </project>
